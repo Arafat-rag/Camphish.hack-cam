@@ -34,7 +34,7 @@ apt-get -y install php openssh git wget
 
 ```
 git clone https://github.com/Arafat-rag/Camphish.hack-cam
-cd CamPhish
+cd Camphish.hack-cam
 bash camphish.sh
 ```
 
